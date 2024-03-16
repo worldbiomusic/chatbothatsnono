@@ -1,0 +1,8 @@
+google-cloud-language
+flask
+numpy
+Pillow
+opencv-python
+openai
+flask-cors
+flask-sslify
